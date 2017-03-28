@@ -1,0 +1,11 @@
+{
+  "name": "myfirstexpressapp",
+  "version": "1.0.0",
+  "description": "node框架express的开始学习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HuangQingyi",
+  "license": "ISC"
+}
